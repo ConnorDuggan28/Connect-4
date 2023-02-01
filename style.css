@@ -1,5 +1,15 @@
-/*  Background png of Playground */
+body {
+    background: linear-gradient(Yellow, Red) no-repeat center center fixed;
+}
 
-/* Red and Yellow Connect 4 logo */
-
+#Header {
+    font-size: 90px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(230, 2, 2);
+}
+#sub {
+    font-size: 25px;
+    text-align: center;
+}
 /* light blue square that has holes in a pattern of 7 x 6
