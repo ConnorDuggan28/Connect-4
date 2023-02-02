@@ -12,4 +12,11 @@ body {
     font-size: 25px;
     text-align: center;
 }
-/* light blue square that has holes in a pattern of 7 x 6
+/* light blue square that has holes in a pattern of 7 x 6 */
+.board {
+    align-items: center;
+    border: 2px solid black;
+    height: 600px;
+    width: 700px;
+    padding: em;
+}
